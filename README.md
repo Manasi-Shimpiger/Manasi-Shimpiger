@@ -11,7 +11,6 @@
 
 - 💬 Ask me about Sql, Java, C, JavaScript
   
-- ⚡ Fun fact: Me gustan los girasoles.
 
 
 <br>
