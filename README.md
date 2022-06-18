@@ -1,7 +1,28 @@
-<h1>Hi, I’m Manasi</h1>
+<h1 align='center'> Hi! My name is Aditya.</h1>
 
 
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Java | Python | DSA
+<h2> About Me</h2>
 
-<img src="https://github.com/Manasi-Shimpiger/Manasi-Shimpiger/blob/main/code.png">
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently studying in RV College of Engineering
+  
+- 🌱 I’m currently learning Git, Java and Python
+
+- 💬 Ask me about Sql, Java, C, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
+
+
+<br>
+<h2> Skills</h2>
+
+- Python
+
+- Java
+
+- C/C++
+
+- HTML/Css
+
+- JavaScript
