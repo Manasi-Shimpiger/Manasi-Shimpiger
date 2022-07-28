@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning Git, Java and Python
 
-- 💬 Ask me about Sql, Java, C, JavaScript
+- 💬 Ask me about Sql, Java, C
   
 
 
@@ -24,4 +24,3 @@
 
 - HTML/Css
 
-- JavaScript
