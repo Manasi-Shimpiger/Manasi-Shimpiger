@@ -24,3 +24,5 @@
 
 - HTML/Css
 
+- DBMS
+
